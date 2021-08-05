@@ -1,7 +1,7 @@
 const signalR = require('@microsoft/signalr');
 
-// const API = 'http://103.121.120.27:980/hubs/serverhub';
-const API = 'http://39743cc69d6c.ngrok.io/hubs/serverhub';
+const API = 'http://103.121.120.27:980/hubs/serverhub';
+// const API = 'http://39743cc69d6c.ngrok.io/hubs/serverhub';
 
 // export function NewConnection() {
 //   return new signalR.HubConnectionBuilder()
